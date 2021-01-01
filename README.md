@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![](https://raw.githubusercontent.com/jagaimo300/jagaimo300/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 <!--
 **jagaimo300/jagaimo300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
