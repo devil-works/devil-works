@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript">
+
 [![](https://raw.githubusercontent.com/jagaimo300/jagaimo300/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/jagaimo300/jagaimo300/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
