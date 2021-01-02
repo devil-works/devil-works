@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" sizes="50px"></a>
 
 [![](https://raw.githubusercontent.com/jagaimo300/jagaimo300/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
