@@ -1,6 +1,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/jagaimo300/jagaimo300/img/hjc_ico.png" alt="JavaScript" sizes="50px"></a>
 
-![kisspng-cascading-style-sheets-javascript-html-css3-jquery-logo-5ac78cfa336221 4490363115230271942105](https://user-images.githubusercontent.com/58777805/103477342-4b49e580-4e01-11eb-9390-e42e13610fd0.png)
+![kisspng-cascading-style-sheets-javascript-html-css3-jquery-logo-5ac78cfa336221 4490363115230271942105](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 [![](https://raw.githubusercontent.com/jagaimo300/jagaimo300/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
