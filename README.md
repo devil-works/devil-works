@@ -1,6 +1,4 @@
-
-![kisspng-cascading-style-sheets-javascript-html-css3-jquery-logo-5ac78cfa336221 4490363115230271942105](https://user-images.githubusercontent.com/58777805/103477342-4b49e580-4e01-11eb-9390-e42e13610fd0.png)
-
+  <img src="http://jinnyinc.php.xdomain.jp/images/kisspng-angularjs-typescript-javascript-vue-js-5b342607e4f524.2219525715301442639378.png" alt="TypeScript">
 
 [![](https://raw.githubusercontent.com/jagaimo300/jagaimo300/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/jagaimo300/jagaimo300/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
