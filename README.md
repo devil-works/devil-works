@@ -6,7 +6,11 @@
 </ul>
 <ul style="display: flex;">
 
+<img src="http://jinnyinc.php.xdomain.jp/images/kisspng-php-server-side-scripting-computer-software-genera-php-5adc5e792550b8.3506828915243915451529.png" alt="PHP">
+<img src="http://jinnyinc.php.xdomain.jp/images/kisspng-perl-foundation-cdr-onions-5ad029cac03ef3.5312068615235916267875.png" alt="Perl">
+<img src="http://jinnyinc.php.xdomain.jp/images/kisspng-cascading-style-sheets-javascript-html-css3-jquery-logo-5ac78cfa336221.4490363115230271942105.png" alt="HTML/CSS/JavaScript">
 <img src="http://jinnyinc.php.xdomain.jp/images/kisspng-angularjs-typescript-javascript-vue-js-5b342607e4f524.2219525715301442639378.png" alt="TypeScript">
+<img src="http://jinnyinc.php.xdomain.jp/images/kisspng-node-js-javascript-web-server-scalable-vector-grap-yahya-gilany-portfolio-5b648d0ec75443.0611405115333163668165.png" alt="node">
 
 </ul>
 
