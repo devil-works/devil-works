@@ -1,6 +1,7 @@
 <ul style="display: flex;">
 
-<img src="http://jinnyinc.php.xdomain.jp/images/kisspng-vue-js-javascript-library-angularjs-react-vue-js-5b4ebe1c091993.8950282915318871320373.png" alt="Laravel">
+<img src="http://jinnyinc.php.xdomain.jp/images/kisspng-laravel-software-framework-web-framework-php-zend-laravel-software-framework-php-web-framework-model-5ba3437e3f0708.4472124515374263022582.png" alt="Laravel">
+<img src="http://jinnyinc.php.xdomain.jp/images/kisspng-vue-js-javascript-library-angularjs-react-vue-js-5b4ebe1c091993.8950282915318871320373.png" alt="Vue">
 <img src="http://jinnyinc.php.xdomain.jp/images/kisspng-angularjs-typescript-javascript-vue-js-5b342607e4f524.2219525715301442639378.png" alt="TypeScript">
 
 </ul>
